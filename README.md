@@ -22,4 +22,3 @@ npm run start
 # сборка для продакшн с минификацией
 npm run build
 ```
-test
